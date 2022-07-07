@@ -4,30 +4,6 @@
 
 ![2020-10-23 09 43 36](https://user-images.githubusercontent.com/1479022/177861378-5978681b-59dd-412d-a1eb-7e582e3ef1d4.jpg)
 
-email:
-  id: 'your.name@yoursite.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope-square'
-
-facebook:
-  id: 'your-facebook-username'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
-
-twitter:
-  id: 'your-twitter-name'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
-
-github:
-  id: 'your-github-name'
-  href: 'https://github.com/'
-  title: 'GitHub'
-  fa-icon: 'fa-github-square'
-
 {% if site.data.social-media %}
 <div id="social-media">
     {% assign sm = site.data.social-media %}
