@@ -6,13 +6,13 @@ email:
 
 instagram:
   id: 'rushtonmd'
-  href: 'https://www.instagram.com/rushtonmd'
+  href: 'https://www.instagram.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-instagram-square'
 
 github:
   id: 'rushtonmd'
-  href: 'https://github.com/rushtonmd'
+  href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
