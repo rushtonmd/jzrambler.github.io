@@ -1,24 +1,18 @@
 email:
-  id: 'your.name@yoursite.com'
+  id: 'mark@rushtonmd.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
-facebook:
-  id: 'your-facebook-username'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
-
-twitter:
-  id: 'your-twitter-name'
-  href: 'https://www.twitter.com/'
+instagram:
+  id: 'rushtonmd'
+  href: 'https://www.instagram.com/rushtonmd'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
 github:
-  id: 'your-github-name'
-  href: 'https://github.com/'
+  id: 'rushtonmd'
+  href: 'https://github.com/rushtonmd'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
