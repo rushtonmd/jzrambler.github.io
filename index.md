@@ -1,6 +1,42 @@
-## Welcome to GitHub Pages
+## Home of the JZ-Rambler
 
-You can use the [editor on GitHub](https://github.com/rushtonmd/jzrambler.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![2020-10-23 09 43 36](https://user-images.githubusercontent.com/1479022/177861378-5978681b-59dd-412d-a1eb-7e582e3ef1d4.jpg)
+
+email:
+  id: 'your.name@yoursite.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'your-facebook-username'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'your-twitter-name'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'your-github-name'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
+{% if site.data.social-media %}
+<div id="social-media">
+    {% assign sm = site.data.social-media %}
+    {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].id %}
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+        {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
