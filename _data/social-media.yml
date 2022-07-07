@@ -8,7 +8,7 @@ instagram:
   id: 'rushtonmd'
   href: 'https://www.instagram.com/'
   title: 'Twitter'
-  fa-icon: 'fa-instagram-square'
+  fa-icon: 'fa-instagram'
 
 github:
   id: 'rushtonmd'
