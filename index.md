@@ -28,5 +28,3 @@ title: 1965 AMC JZ-Rambler
   {% endfor %}
 </ul>
 
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
