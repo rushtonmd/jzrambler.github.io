@@ -39,3 +39,4 @@ I had to modify the horn mount so I could use a OEM Rambler button:
 
 I swapped out the steering wheel because even though I love the original, it's just too damn big. I'm a pretty small guy and I still had to squirrel around it. This one is an inch smaller and a much better feel:
 ![IMG_3173 2](https://user-images.githubusercontent.com/1479022/178120943-0b6e5d30-70a7-4b10-b05f-73175cd44caa.png)
+
