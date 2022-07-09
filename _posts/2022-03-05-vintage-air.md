@@ -1,3 +1,7 @@
+---
+layout: post
+author: mdr
+---
 
 And the one functional change is I added Air Conditioning.
 
