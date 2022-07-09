@@ -13,10 +13,21 @@ The main issue is that I 1000% wanted to keep the column steering and bench seat
 
 What I ended up doing was shortening the entire column/shifter as much as I could. This gave me just enough room to add the Prius electric steering unit in the engine bay. 
 
+Cutting the column:
 ![IMG_3064 2](https://user-images.githubusercontent.com/1479022/178120931-32a217e4-e385-4ba4-ae72-53c9f4972c56.png)
+
+Modifying the shafts. Each shaft is welded and contains multiple 3/16" pins for strength:
+![shafts-IMG_3152](https://user-images.githubusercontent.com/1479022/178121158-3e91073c-12ac-4327-905f-eac917e54915.png)
+
+
+Mocked up column using exahust tube:
 ![IMG_3081 2](https://user-images.githubusercontent.com/1479022/178120933-a1da4b5b-9e32-4cbc-8918-c2dcce324927.png)
 ![IMG_3088 2](https://user-images.githubusercontent.com/1479022/178120934-adfdddad-00f4-4add-8bd6-2e375fe72e36.png)
+
+Dry fit in the engine bay:
 ![IMG_3100 2](https://user-images.githubusercontent.com/1479022/178120935-982993a0-84e7-433a-b9f8-65c3fe799963.png)
+
+Cleaning Up:
 ![IMG_3153 2](https://user-images.githubusercontent.com/1479022/178120936-aaf118ad-1f0d-4c5d-9a21-d92b972cbcf2.png)
 ![IMG_3158 2](https://user-images.githubusercontent.com/1479022/178120937-d230456e-90ef-49c3-9bbb-ac05f94ea13e.png)
 ![IMG_3163 2](https://user-images.githubusercontent.com/1479022/178120938-b6ea05b8-fc07-4533-91f4-d5cb513a62b1.png)
