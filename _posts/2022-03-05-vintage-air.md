@@ -1,6 +1,7 @@
 ---
 layout: post
 author: mdr
+title: VintageAir Heating / AC
 ---
 
 And the one functional change is I added Air Conditioning.
