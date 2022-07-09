@@ -45,7 +45,7 @@
 	    {% endfor %}
 	</div>
 	{% endif %}
-	{% if page.blog_post %}
+	{% if page.page_type == "blog_post" %}
 		<a href="{{ site.baseurl }}">Home</a> / Build Log
 	{% endif %}
         </section>
