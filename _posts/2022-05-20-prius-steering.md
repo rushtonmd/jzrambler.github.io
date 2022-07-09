@@ -1,6 +1,7 @@
 ---
 layout: post
 author: mdr
+title: Toyota Prius Electric Power Steering Conversion
 ---
 
 I drove around for almost a year with manual steering. While not... terrible... it is slightly less enjoyable especially when parking and tight spots. 
