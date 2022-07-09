@@ -11,7 +11,7 @@ title: 1965 AMC JZ-R
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      {{ page.date | date_to_string }}
     </li>
   {% endfor %}
 </ul>
