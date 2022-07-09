@@ -11,7 +11,7 @@ instagram:
   fa-icon: 'fa-instagram'
 
 github:
-  id: 'rushtonmd'
+  id: 'rushtonmd/carduino-5000'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
