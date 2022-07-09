@@ -33,5 +33,9 @@ Cleaning Up:
 ![IMG_3163 2](https://user-images.githubusercontent.com/1479022/178120938-b6ea05b8-fc07-4533-91f4-d5cb513a62b1.png)
 ![IMG_3165 2](https://user-images.githubusercontent.com/1479022/178120940-d0ecfd1b-1265-43f6-94bc-6638f82b5daa.png)
 ![IMG_3170 2](https://user-images.githubusercontent.com/1479022/178120941-a9f48e20-1261-45ab-988d-b574d838d713.png)
+
+I had to modify the horn mount so I could use a OEM Rambler button:
 ![IMG_3171 2](https://user-images.githubusercontent.com/1479022/178120942-d82b86f7-aa84-4653-8703-3c39dc5bfc3b.png)
+
+I swapped out the steering wheel because even though I love the original, it's just too damn big. I'm a pretty small guy and I still had to squirrel around it. This one is an inch smaller and a much better feel:
 ![IMG_3173 2](https://user-images.githubusercontent.com/1479022/178120943-0b6e5d30-70a7-4b10-b05f-73175cd44caa.png)
