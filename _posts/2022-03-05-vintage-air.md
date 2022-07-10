@@ -4,9 +4,9 @@ author: mdr
 title: VintageAir Heating / AC
 ---
 
-And the one functional change is I added Air Conditioning.
+It's summer, it's San Diego, it's hot. If it were just me I wouldn't mind rolling around without A/C, but one of my favorite things is to load up the family and head to get ice cream and it's pretty unbearable without a solid air conditioning system. 
 
-I used the VintageAir GenIV Magnum - details here: http://https://www.vintageair.com/instructions_pdf/671400-VUZ.pdf
+I used the VintageAir GenIV Magnum - details [here](http://https://www.vintageair.com/instructions_pdf/671400-VUZ.pdf).
 
 The Gen IV has heater, AC, and defrost.
 
