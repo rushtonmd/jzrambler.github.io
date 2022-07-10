@@ -1,6 +1,7 @@
 ---
 layout: post
 author: mdr
+title: Arduino and 4d Systems Digital Dash
 ---
 
 I really liked the way the original dash bezel looked and didn't want to change it. What I ended up doing was gutting the original gauges and replacing them with LCD screens. The outer sections I added a couple AC vents to help in the hot summers.
