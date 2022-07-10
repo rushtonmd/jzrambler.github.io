@@ -38,7 +38,7 @@ Here is a shot of the Prius motor in the engine bay. It extends about 10" past t
 
 ### Cleaning up
 
-I ended up denting the column so I decided to throw some bondo and paint on it while it was out. Comically, I dinged it in a different place mounting it... suck is life. 
+I ended up denting the column so I decided to throw some bondo and paint on it while it was out. Comically, I dinged it in a different place mounting it... such is life. 
 ![IMG_3153 2](https://user-images.githubusercontent.com/1479022/178120936-aaf118ad-1f0d-4c5d-9a21-d92b972cbcf2.png)
 ![IMG_3158 2](https://user-images.githubusercontent.com/1479022/178120937-d230456e-90ef-49c3-9bbb-ac05f94ea13e.png)
 
