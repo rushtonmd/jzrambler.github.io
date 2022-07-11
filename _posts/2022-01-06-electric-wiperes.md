@@ -4,7 +4,7 @@ author: mdr
 title: Electric Wiper Motor Conversion
 ---
 
-I had previously gotten the vacuum wipers rebuilt and they worked... you know... as well as vacuum wipers do Smile Since it's a turbo car I don't have a ton of vacuum to start with, so I was using an external vacuum pump for the wipers and brakes. The major issue is that there is no reservoir so the pump takes the entire burden of building vacuum, and the vacuum wipers take a TON of volume, and even when not operating the wipers aren't 100% sealed. This is pretty apparent and negatively affects braking power to the point of being quite noticeable. Once I removed the wipers the brakes work soooo much better.
+I had previously gotten the vacuum wipers rebuilt and they worked... you know... as well as vacuum wipers do 😊 Since it's a turbo car I don't have a ton of vacuum to start with, so I was using an external vacuum pump for the wipers and brakes. The major issue is that there is no reservoir so the pump takes the entire burden of building vacuum, and the vacuum wipers take a TON of volume, and even when not operating the wipers aren't 100% sealed. This is pretty apparent and negatively affects braking power to the point of being quite noticeable. Once I removed the wipers the brakes work soooo much better.
 
 I read a few threads on electric wipers and decided to give it a shot. I wanted to keep things as reversible as possible and not destroy things.
 
