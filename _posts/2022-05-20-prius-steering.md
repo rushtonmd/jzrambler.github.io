@@ -30,11 +30,15 @@ Modifying the shafts. Each shaft is welded and contains multiple 3/16" pins for 
 ### Mounting the Prius steering motor
 
 I used a 2" steel exhaust pipe that slid nicely into the Rambler steering column to mount the Prius motor. The exhaust slides up about 6" into the Rambler column, and is secured with screws. The exhaust tube is then bolted to the Prius motor. 
+
 ![IMG_3081 2](https://user-images.githubusercontent.com/1479022/178120933-a1da4b5b-9e32-4cbc-8918-c2dcce324927.png)
 ![IMG_3088 2](https://user-images.githubusercontent.com/1479022/178120934-adfdddad-00f4-4add-8bd6-2e375fe72e36.png)
 
-Here is a shot of the Prius motor in the engine bay. It extends about 10" past the steering column and is pretty snug against... pretty much everything. There's another mount on this side of the Prius motor that extends down to the cross member and is bolted there for rigidity. 
+Here is a shot of the Prius motor in the engine bay. It extends about 10" past the steering column and is pretty snug against... pretty much everything. There's another mount on this side of the Prius motor that extends down to the cross member and is bolted there for rigidity. I'm going to drive around a bit to make sure everything is hunky dory before pulling the mount off to grind/paint it. 
+
 ![IMG_3100 2](https://user-images.githubusercontent.com/1479022/178120935-982993a0-84e7-433a-b9f8-65c3fe799963.png)
+![IMG-3251](https://user-images.githubusercontent.com/1479022/179129669-50619c85-ecb8-4517-987d-76e695094178.jpg)
+![IMG-3252](https://user-images.githubusercontent.com/1479022/179129681-1ce7440e-eb8b-4744-9438-1131847dcace.jpg)
 
 ### Cleaning up
 
